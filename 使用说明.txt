@@ -1,1 +1,0 @@
-在app inventor中打开.aia项目即可使用
